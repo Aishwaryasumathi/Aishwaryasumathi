@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Aishwarya R! 👋
 
-<!--
-**Aishwaryasumathi/Aishwaryasumathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+🎓 BE in Information Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 💻 Web Developer & DSA Enthusiast 
+
+ 🔭 I’m currently working on File Conversion Utility
+
+ 🌱 I’m currently learning Typescript, Next JS, Springboot
+
+ 🤔 I’m looking for help with Collaborating on real-world use cases
+
+ 💬 Ask me about React JS, Java, Hibernate, SQL 
+
+ ⚡ Fun fact: I once built a full learning platform from scratch — and then accidentally fixed a layout bug while trying to style a button 😅
+
+## 🛠 Skills
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+    
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+    
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+    
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+          
+          
+          
+          
